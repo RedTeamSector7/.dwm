@@ -3,3 +3,4 @@
 # <h3>patch -p1 < dwm-bar-height-6.2.diff </h3>
 # <h3>sudo mv ~/.dwm/bar /usr/local/bin/ </h3>
 # <h3>sudo mv ~/.dwm/simple-tokyonight.rasi /usr/share/rofi/themes/ </h3>
+#<h3>cd .dwm && mv .Xresources /home/user/ && xrdb -merge ~/.Xresources</h3>
