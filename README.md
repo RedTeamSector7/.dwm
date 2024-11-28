@@ -4,4 +4,4 @@
 # <h3>sudo mv ~/.dwm/bar /usr/local/bin/ </h3>
 # <h3>sudo mv ~/.dwm/simple-tokyonight.rasi /usr/share/rofi/themes/ </h3>
 #<h3>mv ~/.dwm/.Xresources /home/user/ && xrdb -merge ~/.Xresources</h3>
-![image info](./pictures/image.png)
+![alt text](2024-11-25-095824_1600x900_scrot.png)
