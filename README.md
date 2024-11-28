@@ -4,4 +4,4 @@
 # <h3>sudo mv ~/.dwm/bar /usr/local/bin/ </h3>
 # <h3>sudo mv ~/.dwm/simple-tokyonight.rasi /usr/share/rofi/themes/ </h3>
 #<h3>mv ~/.dwm/.Xresources /home/user/ && xrdb -merge ~/.Xresources</h3>
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![image info](./pictures/image.png)
