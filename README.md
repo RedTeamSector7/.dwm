@@ -4,3 +4,4 @@
 # <h3>sudo mv ~/.dwm/bar /usr/local/bin/ </h3>
 # <h3>sudo mv ~/.dwm/simple-tokyonight.rasi /usr/share/rofi/themes/ </h3>
 #<h3>mv ~/.dwm/.Xresources /home/user/ && xrdb -merge ~/.Xresources</h3>
+<img title="a title" alt="Alt text" src="/images/boo.svg">
