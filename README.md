@@ -4,7 +4,7 @@
 # ==============================================
 # LINUX / DWM SETUP TOOLS | Dracos Themes          
 # ==============================================
-user@linux:~$ sudo apt update && sudo apt install -y xfonts-terminus urxvt xterm
+user@linux:~$ sudo apt update && sudo apt install -y xfonts-terminus  rxvt-unicode xterm
 
 user@linux:~$ rofi -dump-config > config.rasi
 user@linux:~$ cd .dwm  
