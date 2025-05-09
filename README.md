@@ -6,7 +6,8 @@
 # ==============================================
 user@linux:~$ sudo apt update && sudo apt install -y xfonts-terminus urxvt xterm
 
-user@linux:~$ rofi -dump-config > config.rasi  
+user@linux:~$ rofi -dump-config > config.rasi
+user@linux:~$rofi-theme-selector -> ALT+a
 user@linux:~$ cd .dwm  
 
 user@linux:~/.dwm$ sudo mv blackarch bar dmenu_run /usr/local/bin/  
