@@ -14,7 +14,7 @@ user@linux:~/.dwm$ sudo mv simple-tokyonight.rasi /usr/share/rofi/themes/
 
 user@linux:~/.dwm$ rofi-theme-selector -> ALT+a
 
-user@linux:~/.dwm$ make && make install &&sudo make clean install  
+user@linux:~/.dwm$ make && make install && sudo make clean install  
 user@linux:~/.dwm$ exit  
 
 # ==============================================
