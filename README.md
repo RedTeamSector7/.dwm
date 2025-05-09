@@ -2,7 +2,7 @@
 
 ```bash
 # ==============================================
-#            LINUX / DWM SETUP TOOLS           
+# LINUX / DWM SETUP TOOLS | Dracos Themes          
 # ==============================================
 user@linux:~$ sudo apt update && sudo apt install -y xfonts-terminus urxvt xterm
 
